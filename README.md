@@ -1,3 +1,3 @@
 # PrimoBrowser GitHub Organization Public Facing Documents
 
-About Primo, with links for
+For editing the actual content, edit [./profile/README.md](https://github.com/primo-browser/.github/blob/main/profile/README.md) instead
